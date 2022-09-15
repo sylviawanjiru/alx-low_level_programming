@@ -8,22 +8,17 @@
 int main(void)
 
 {
+unsigned long int i, j, k, j1, j2, k1, k2;
 
-	unsigned long int i, j, k, j1, j2, k1, k2;
+j = 1;
 
+	
+k = 2;
 
-
-	j = 1;
-
-	k = 2;
-
-
-
-	printf("%lu", j);
+printf("%lu", j);
 
 
-
-	for (i = 1; i < 91; i++)
+		for (i = 1; i < 91; i++)
 
 	{
 
