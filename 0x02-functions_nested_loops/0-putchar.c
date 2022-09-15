@@ -2,10 +2,13 @@
 
 /**
  * main - entry point
+ * program description
+ * program that"prints _putchar"
  *
  * return: Always 0
- */
-Return: Always 0
+ *
+*/
+int main(void)
 {
 	_putchar('-');
 	_putchar('p');
@@ -18,5 +21,4 @@ Return: Always 0
         _putchar('\n')	
 
 return (0);
-
 }
