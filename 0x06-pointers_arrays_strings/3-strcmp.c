@@ -1,19 +1,16 @@
 #include "main.h"
 
 /**
- * _strcmp - Function which compare two strings and
- * @s1: first string
- * @s2:second string
- * Return:
- *               returns zero if s1 == s2
- *               returns negative number if s1 < s2
- *               returns positive number if s1 > s2
+ * _strcmp - compares two strings
+ * @s1: A pointer to a character that will be changed
+ * @s2: A pointer to a character that will also be changed/modified/updated
+ * Return: dest
  */
 
 int _strcmp(char *s1, char *s2)
 
+{
 
-         {
 char *str_one = s1;
 char *str_two = s2;
 
