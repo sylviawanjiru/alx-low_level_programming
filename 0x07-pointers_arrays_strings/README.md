@@ -1,2 +1,1 @@
-#!/bin/bash
-README EVEN MORE POINTERS
+More pointers, arrays and functions
